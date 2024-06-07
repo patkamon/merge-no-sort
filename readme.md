@@ -8,8 +8,8 @@ This project implements a `merge` function that merges three sorted arrays into 
 
 1. Clone the repository:
     ```
-    git clone <repository-url>
-    cd typescript-merge-project
+    git clone https://github.com/patkamon/merge-no-sort.git
+    cd merge-no-sort
     ```
 
 2. Install dependencies:
@@ -18,6 +18,6 @@ This project implements a `merge` function that merges three sorted arrays into 
     ```
 
 3. Run tests:
-    ```sh
+    ```
     npm test
-    ```# merge-no-sort
+    ```
